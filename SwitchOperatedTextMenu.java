@@ -18,6 +18,9 @@ public class SwitchOperatedTextMenu {
 			System.out.println("You've chosen item #1");
 			System.out.println("My name is Christopher Macfarlane.");
 				// do something...
+				System.out.println("You've also chosen item #1");
+				System.out.println("but your name is  Calum Fairbairn");
+
 				break;
 			case 2:
 				System.out.println("You've chosen item #2");
